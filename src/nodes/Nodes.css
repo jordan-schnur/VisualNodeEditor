@@ -4,6 +4,7 @@
     height: 100%;
     overflow: hidden;
     background-color: rgb(205, 205, 205);
+    user-select: none;
 }
 
 .vne-node-generic {
@@ -18,4 +19,5 @@
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
     overflow: hidden;
     cursor: grab;
+    user-select: none;
 }

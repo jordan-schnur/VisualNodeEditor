@@ -6,6 +6,14 @@ function App() {
     <div className="App">
       <NodeWindow>
         <Node />
+        <Node />
+        <Node />
+        <Node />
+        <Node />
+        <Node />
+        <Node />
+        <Node />
+        <Node />
       </NodeWindow>
     </div>
   );
